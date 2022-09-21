@@ -4,7 +4,7 @@
       "id": 1,
       "name": "BENGAL TIGER",
       "location": "Southeast Asia",
-      "population": 2500,
+      "population": "2500",
       "status": "Endangered",
       "description": "The Bengal tiger lives in the Indian subcontinent. It is listed as endangered species since 2008 and there are only about 2,500 individuals left. Most live in India, but there are a few hundered also in Bangladesh, Nepal and Bhutan. The species is threatened by poaching and loss of habitat caused by climat change. The Bengal tiger is one of the biggest wild cats alive and is the national animal of India and Bangladesh.", 
       "img": "https://res.cloudinary.com/dixptczq4/image/upload/v1568400793/bloowatch/bengal_tiger.jpg"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "GIANT PANDA",
       "location": "China",
-      "population": 2000,
+      "population": "2000",
       "status": "Vulnerable",
       "description": "Giant panda bear is native to south central China and lives mainly high in the mountains in cool and wet bamboo forests which is their primary source of food. Pandas have been driven out of the lowland areas where they once lived because of farming and deforestation making it a vulnerable species. Improved conservation efforts and better survey methods have managed to increase the wild panda population.", 
       "img": "https://res.cloudinary.com/dixptczq4/image/upload/v1568400793/bloowatch/panda.jpg"
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "ASIAN ELEPHANT",
       "location": "Southeast Asia",
-      "population":35000,
+      "population":"35000",
       "status": "Endangered",
       "description": "The Asian elephant is the largest living land animal in Asia. It lives in the Indian subcontinent and Southeast Asia, from India and Nepal in the west to Borneo in the south. Asian elephants are very sociable and form groups of six to seven related females that are led by the oldest female, the matriarch. The species has been listed as Endangered since 1986. It is primarily threatened by loss of habitat and poaching. ", 
       "img": "https://res.cloudinary.com/dixptczq4/image/upload/v1568400789/bloowatch/elephant.jpg"
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "GORILLA",
       "location": "Congo",
-      "population": 100000,
+      "population": "100000",
       "status": "Critically Endangered",
       "description": "Gorillas are apes that live in the forests of central Sub-Saharan Africa and are critically endangered. They are the largest living primates and their DNA is highly similar to that of humans. A female will give birth to only one baby every four to six years, and only three or four over her entire lifetime, which makes it difficult for gorillas to recover from population declines. Both gorilla species have been decreasing in numbers for decades, but have seen some increase in the recent years due to conservation efforts. ", 
       "img": "https://res.cloudinary.com/dixptczq4/image/upload/v1568400788/bloowatch/gorilla.jpg"
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "SNOW LEOPARD",
       "location": "Central Asia",
-      "population": 3500,
+      "population": "3500",
       "status": "Vulnerable",
       "description": "The snow leopard is a large cat native to alpine and subalpine ranges of eastern Afghanistan, Mongolia and western China. It can climb steep slopes and leap six times the length of its body. The snow leopard habitat range continues to decline due to human settlement and increased use of grazing space. ", 
       "img": "https://res.cloudinary.com/dixptczq4/image/upload/v1568400796/bloowatch/snow_leopard.jpg"
